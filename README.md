@@ -1,16 +1,12 @@
-## Hi there 👋
-ola eu sou o lucas
-<!--
-**2Dlbmp32/2Dlbmp32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Boas vindas ao meu perfil 🖐️
+# _Eai eu sou o Lucas_
 
-Here are some ideas to get you started:
+- Estou estudando no alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou me desenvolvendo na linguagem JavaScript
+
+- Utilizo esse espaço para me desenvolver e para a organização dos meus projetos
+
+  ### _VOCÊ pode entrar em contato comigo_ 📧
+
+  00001138268665sp@al.educacao.sp.gov.br 
