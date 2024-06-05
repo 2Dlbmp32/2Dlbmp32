@@ -1,7 +1,7 @@
 ### Boas vindas ao meu perfil 🖐️
 # _Eai eu sou o Lucas_
 
-- Estou estudando no alura
+- Estou estudando no [alura](https://www.alura.com.br)
 
 - Estou me desenvolvendo na linguagem JavaScript
 
