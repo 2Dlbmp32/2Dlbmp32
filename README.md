@@ -9,4 +9,11 @@
 
   ### _VOCÊ pode entrar em contato comigo_ 📧
 
-  00001138268665sp@al.educacao.sp.gov.br 
+  00001138268665sp@al.educacao.sp.gov.br
+
+![](https://tenor.com/pt-BR/view/darwin-darwin-watterson-darwin-gumball-the-amazing-world-of-gumball-the-amazing-world-of-gumball-darwin-gif-14796211409114117609)
+
+  
+  
+  
+
